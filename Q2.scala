@@ -1,4 +1,4 @@
-object Q1
+object Q2
 {
 	def main(args:Array[String])
 	{
